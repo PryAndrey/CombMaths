@@ -6,7 +6,6 @@ using namespace std;
 int main()
 {
 	const int deck = 36;
-
 	int n;
 	cin >> n;
 
