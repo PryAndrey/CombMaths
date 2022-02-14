@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jonson-Trotter", "Jonson-Trotter\Jonson-Trotter.vcxproj", "{4680905A-68A2-402C-9EAA-FA4EA3F6EEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4680905A-68A2-402C-9EAA-FA4EA3F6EEAF}.Debug|x64.ActiveCfg = Debug|x64
+		{4680905A-68A2-402C-9EAA-FA4EA3F6EEAF}.Debug|x64.Build.0 = Debug|x64
+		{4680905A-68A2-402C-9EAA-FA4EA3F6EEAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{4680905A-68A2-402C-9EAA-FA4EA3F6EEAF}.Debug|x86.Build.0 = Debug|Win32
+		{4680905A-68A2-402C-9EAA-FA4EA3F6EEAF}.Release|x64.ActiveCfg = Release|x64
+		{4680905A-68A2-402C-9EAA-FA4EA3F6EEAF}.Release|x64.Build.0 = Release|x64
+		{4680905A-68A2-402C-9EAA-FA4EA3F6EEAF}.Release|x86.ActiveCfg = Release|Win32
+		{4680905A-68A2-402C-9EAA-FA4EA3F6EEAF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02E1FE3F-0FD2-4307-ABB8-8154FAD4DC3B}
+	EndGlobalSection
+EndGlobal

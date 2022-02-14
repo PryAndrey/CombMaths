@@ -1,0 +1,3 @@
+﻿  Jonson-Trotter.cpp
+C:\Users\ANDREY\source\repos\Jonson-Trotter\packages\boost.1.78.0\lib\native\include\boost\timer.hpp(21): message : This header is deprecated. Use the facilities in <boost/timer/timer.hpp> instead.
+  Jonson-Trotter.vcxproj -> C:\Users\ANDREY\source\repos\Jonson-Trotter\Debug\Jonson-Trotter.exe
